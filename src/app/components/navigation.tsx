@@ -10,7 +10,7 @@ export default function Navigation() {
 						<Link href="/">Home</Link>
 					</li>
 					<li>
-						<Link href="/">Users</Link>
+						<Link href="/users">Users</Link>
 					</li>
 				</ul>
 			</div>
